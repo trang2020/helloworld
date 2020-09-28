@@ -16,6 +16,10 @@ namespace n1
 int main() 
 {
     cout<<"Hello, World wow wow wow!"<<endl;
+    int number;
+    cout<<"Enter a number"<< endl;
+    cin>>number;
+    cout<<"The number is: "<<number<<endl;
 
     int x=2;
     int y=3;
