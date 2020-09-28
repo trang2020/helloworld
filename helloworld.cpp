@@ -15,7 +15,7 @@ namespace n1
 }
 int main() 
 {
-    cout<<"Hello, World!"<<endl;
+    cout<<"Hello, World wow wow wow!"<<endl;
 
     int x=2;
     int y=3;
